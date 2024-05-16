@@ -1,0 +1,14 @@
+{
+  "name": "order-management-system",
+  "version": "1.0.0",
+  "description": "Backend system for order and inventory management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "dotenv": "^8.2.0"
+  }
+}
